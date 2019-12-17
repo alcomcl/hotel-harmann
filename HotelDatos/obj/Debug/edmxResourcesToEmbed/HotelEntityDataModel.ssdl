@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="HotelModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Cliente">
+    <Key>
+      <PropertyRef Name="RutCliente" />
+    </Key>
+    <Property Name="RutCliente" Type="nvarchar" MaxLength="10" Nullable="false" />
+    <Property Name="Nombre" Type="nvarchar" MaxLength="40" Nullable="false" />
+    <Property Name="Apellidos" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="Email" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="Direccion" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Telefono" Type="nvarchar" MaxLength="15" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Gastos">
+    <Key>
+      <PropertyRef Name="IdGastos&#x9;" />
+    </Key>
+    <Property Name="IdGastos&#x9;" Type="int" Nullable="false" />
+    <Property Name="IdServicios" Type="int" Nullable="false" />
+    <Property Name="IdReserva" Type="nvarchar" MaxLength="40" Nullable="false" />
+    <Property Name="Fecha" Type="nvarchar" MaxLength="30" Nullable="false" />
+    <Property Name="Cantidad" Type="int" Nullable="false" />
+    <Property Name="Precio" Type="numeric" Precision="18" Scale="0" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Habitaciones">
+    <Key>
+      <PropertyRef Name="NumHabitacion" />
+    </Key>
+    <Property Name="NumHabitacion" Type="int" Nullable="false" />
+    <Property Name="Categoria" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="PrecioHabitacion">
+    <Key>
+      <PropertyRef Name="IdPrecio" />
+    </Key>
+    <Property Name="IdPrecio" Type="int" Nullable="false" />
+    <Property Name="Categoria" Type="int" Nullable="false" />
+    <Property Name="Temporada" Type="int" Nullable="false" />
+    <Property Name="Precio" Type="numeric" Precision="18" Scale="0" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Reserva">
+    <Key>
+      <PropertyRef Name="IdReserva" />
+    </Key>
+    <Property Name="IdReserva" Type="nvarchar" MaxLength="40" Nullable="false" />
+    <Property Name="RutCliente" Type="nvarchar" MaxLength="30" Nullable="false" />
+    <Property Name="FechaIngreso" Type="nvarchar" MaxLength="30" Nullable="false" />
+    <Property Name="FechaSalida" Type="nvarchar" MaxLength="30" Nullable="false" />
+    <Property Name="TipoHabitacion" Type="nvarchar" MaxLength="40" Nullable="false" />
+    <Property Name="CantHuespedes" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Servicios">
+    <Key>
+      <PropertyRef Name="IdServicios" />
+    </Key>
+    <Property Name="IdServicios" Type="int" Nullable="false" />
+    <Property Name="NombreServicio" Type="nvarchar" MaxLength="40" Nullable="false" />
+    <Property Name="Descripcion" Type="nvarchar" MaxLength="30" Nullable="false" />
+    <Property Name="Fecha" Type="nvarchar" MaxLength="15" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Temporada">
+    <Key>
+      <PropertyRef Name="Temporada" />
+    </Key>
+    <Property Name="Temporada" Type="int" Nullable="false" />
+    <Property Name="FechaInicio" Type="nvarchar" MaxLength="15" Nullable="false" />
+    <Property Name="FechaTermino" Type="nvarchar" MaxLength="15" Nullable="false" />
+    <Property Name="Tipo" Type="nvarchar" MaxLength="1" Nullable="false" />
+  </EntityType>
+  <EntityType Name="TipoHabitacion">
+    <Key>
+      <PropertyRef Name="Categoria" />
+    </Key>
+    <Property Name="Categoria" Type="int" Nullable="false" />
+    <Property Name="Camas" Type="int" Nullable="false" />
+    <Property Name="Terraza" Type="nvarchar" MaxLength="2" Nullable="false" />
+  </EntityType>
+  <EntityType Name="TipoServicio">
+    <Key>
+      <PropertyRef Name="NombreServicio" />
+    </Key>
+    <Property Name="NombreServicio" Type="nvarchar" MaxLength="40" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="HotelModelStoreContainer">
+    <EntitySet Name="Cliente" EntityType="Self.Cliente" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Gastos" EntityType="Self.Gastos" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Habitaciones" EntityType="Self.Habitaciones" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="PrecioHabitacion" EntityType="Self.PrecioHabitacion" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Reserva" EntityType="Self.Reserva" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Servicios" EntityType="Self.Servicios" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Temporada" EntityType="Self.Temporada" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TipoHabitacion" EntityType="Self.TipoHabitacion" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TipoServicio" EntityType="Self.TipoServicio" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

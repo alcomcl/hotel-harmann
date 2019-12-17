@@ -1,0 +1,48 @@
+C:\Users\alexc\Desktop\Solucion Hotel Harman\HotelWPF\bin\Debug\HotelWPF.exe.config
+C:\Users\alexc\Desktop\Solucion Hotel Harman\HotelWPF\bin\Debug\HotelWPF.exe
+C:\Users\alexc\Desktop\Solucion Hotel Harman\HotelWPF\bin\Debug\HotelWPF.pdb
+C:\Users\alexc\Desktop\Solucion Hotel Harman\HotelWPF\bin\Debug\EntityFramework.dll
+C:\Users\alexc\Desktop\Solucion Hotel Harman\HotelWPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alexc\Desktop\Solucion Hotel Harman\HotelWPF\bin\Debug\HotelDatos.dll
+C:\Users\alexc\Desktop\Solucion Hotel Harman\HotelWPF\bin\Debug\HotelDatos.pdb
+C:\Users\alexc\Desktop\Solucion Hotel Harman\HotelWPF\bin\Debug\HotelDatos.dll.config
+C:\Users\alexc\Desktop\Solucion Hotel Harman\HotelWPF\bin\Debug\EntityFramework.xml
+C:\Users\alexc\Desktop\Solucion Hotel Harman\HotelWPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alexc\Desktop\Solucion Hotel Harman\HotelWPF\obj\Debug\HotelWPF.csprojAssemblyReference.cache
+C:\Users\alexc\Desktop\Solucion Hotel Harman\HotelWPF\obj\Debug\MainWindow.g.cs
+C:\Users\alexc\Desktop\Solucion Hotel Harman\HotelWPF\obj\Debug\App.g.cs
+C:\Users\alexc\Desktop\Solucion Hotel Harman\HotelWPF\obj\Debug\HotelWPF_MarkupCompile.cache
+C:\Users\alexc\Desktop\Solucion Hotel Harman\HotelWPF\obj\Debug\HotelWPF_MarkupCompile.lref
+C:\Users\alexc\Desktop\Solucion Hotel Harman\HotelWPF\obj\Debug\MainWindow.baml
+C:\Users\alexc\Desktop\Solucion Hotel Harman\HotelWPF\obj\Debug\HotelWPF.g.resources
+C:\Users\alexc\Desktop\Solucion Hotel Harman\HotelWPF\obj\Debug\HotelWPF.Properties.Resources.resources
+C:\Users\alexc\Desktop\Solucion Hotel Harman\HotelWPF\obj\Debug\HotelWPF.csproj.GenerateResource.cache
+C:\Users\alexc\Desktop\Solucion Hotel Harman\HotelWPF\obj\Debug\HotelWPF.csproj.CoreCompileInputs.cache
+C:\Users\alexc\Desktop\Solucion Hotel Harman\HotelWPF\obj\Debug\HotelWPF.csproj.CopyComplete
+C:\Users\alexc\Desktop\Solucion Hotel Harman\HotelWPF\obj\Debug\HotelWPF.exe
+C:\Users\alexc\Desktop\Solucion Hotel Harman\HotelWPF\obj\Debug\HotelWPF.pdb
+C:\Users\alexc\Desktop\Solucion Hotel Harman\HotelWPF\obj\Debug\HotelWPF_Content.g.cs
+C:\Users\alexc\Desktop\AVA - 3ER SEMESTRE\DLLO DE SOFTWARE\Proyecto Completo Hotel Harmann - Alex Cofre - gabriel Villar - Juan Calderon - Sebastian Wimmer\Solucion Hotel Harman\HotelWPF\bin\Debug\HotelWPF.exe.config
+C:\Users\alexc\Desktop\AVA - 3ER SEMESTRE\DLLO DE SOFTWARE\Proyecto Completo Hotel Harmann - Alex Cofre - gabriel Villar - Juan Calderon - Sebastian Wimmer\Solucion Hotel Harman\HotelWPF\bin\Debug\HotelWPF.exe
+C:\Users\alexc\Desktop\AVA - 3ER SEMESTRE\DLLO DE SOFTWARE\Proyecto Completo Hotel Harmann - Alex Cofre - gabriel Villar - Juan Calderon - Sebastian Wimmer\Solucion Hotel Harman\HotelWPF\bin\Debug\HotelWPF.pdb
+C:\Users\alexc\Desktop\AVA - 3ER SEMESTRE\DLLO DE SOFTWARE\Proyecto Completo Hotel Harmann - Alex Cofre - gabriel Villar - Juan Calderon - Sebastian Wimmer\Solucion Hotel Harman\HotelWPF\bin\Debug\EntityFramework.dll
+C:\Users\alexc\Desktop\AVA - 3ER SEMESTRE\DLLO DE SOFTWARE\Proyecto Completo Hotel Harmann - Alex Cofre - gabriel Villar - Juan Calderon - Sebastian Wimmer\Solucion Hotel Harman\HotelWPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alexc\Desktop\AVA - 3ER SEMESTRE\DLLO DE SOFTWARE\Proyecto Completo Hotel Harmann - Alex Cofre - gabriel Villar - Juan Calderon - Sebastian Wimmer\Solucion Hotel Harman\HotelWPF\bin\Debug\HotelDatos.dll
+C:\Users\alexc\Desktop\AVA - 3ER SEMESTRE\DLLO DE SOFTWARE\Proyecto Completo Hotel Harmann - Alex Cofre - gabriel Villar - Juan Calderon - Sebastian Wimmer\Solucion Hotel Harman\HotelWPF\bin\Debug\HotelDatos.pdb
+C:\Users\alexc\Desktop\AVA - 3ER SEMESTRE\DLLO DE SOFTWARE\Proyecto Completo Hotel Harmann - Alex Cofre - gabriel Villar - Juan Calderon - Sebastian Wimmer\Solucion Hotel Harman\HotelWPF\bin\Debug\HotelDatos.dll.config
+C:\Users\alexc\Desktop\AVA - 3ER SEMESTRE\DLLO DE SOFTWARE\Proyecto Completo Hotel Harmann - Alex Cofre - gabriel Villar - Juan Calderon - Sebastian Wimmer\Solucion Hotel Harman\HotelWPF\bin\Debug\EntityFramework.xml
+C:\Users\alexc\Desktop\AVA - 3ER SEMESTRE\DLLO DE SOFTWARE\Proyecto Completo Hotel Harmann - Alex Cofre - gabriel Villar - Juan Calderon - Sebastian Wimmer\Solucion Hotel Harman\HotelWPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alexc\Desktop\AVA - 3ER SEMESTRE\DLLO DE SOFTWARE\Proyecto Completo Hotel Harmann - Alex Cofre - gabriel Villar - Juan Calderon - Sebastian Wimmer\Solucion Hotel Harman\HotelWPF\obj\Debug\HotelWPF.csprojAssemblyReference.cache
+C:\Users\alexc\Desktop\AVA - 3ER SEMESTRE\DLLO DE SOFTWARE\Proyecto Completo Hotel Harmann - Alex Cofre - gabriel Villar - Juan Calderon - Sebastian Wimmer\Solucion Hotel Harman\HotelWPF\obj\Debug\MainWindow.g.cs
+C:\Users\alexc\Desktop\AVA - 3ER SEMESTRE\DLLO DE SOFTWARE\Proyecto Completo Hotel Harmann - Alex Cofre - gabriel Villar - Juan Calderon - Sebastian Wimmer\Solucion Hotel Harman\HotelWPF\obj\Debug\App.g.cs
+C:\Users\alexc\Desktop\AVA - 3ER SEMESTRE\DLLO DE SOFTWARE\Proyecto Completo Hotel Harmann - Alex Cofre - gabriel Villar - Juan Calderon - Sebastian Wimmer\Solucion Hotel Harman\HotelWPF\obj\Debug\HotelWPF_Content.g.cs
+C:\Users\alexc\Desktop\AVA - 3ER SEMESTRE\DLLO DE SOFTWARE\Proyecto Completo Hotel Harmann - Alex Cofre - gabriel Villar - Juan Calderon - Sebastian Wimmer\Solucion Hotel Harman\HotelWPF\obj\Debug\HotelWPF_MarkupCompile.cache
+C:\Users\alexc\Desktop\AVA - 3ER SEMESTRE\DLLO DE SOFTWARE\Proyecto Completo Hotel Harmann - Alex Cofre - gabriel Villar - Juan Calderon - Sebastian Wimmer\Solucion Hotel Harman\HotelWPF\obj\Debug\HotelWPF_MarkupCompile.lref
+C:\Users\alexc\Desktop\AVA - 3ER SEMESTRE\DLLO DE SOFTWARE\Proyecto Completo Hotel Harmann - Alex Cofre - gabriel Villar - Juan Calderon - Sebastian Wimmer\Solucion Hotel Harman\HotelWPF\obj\Debug\MainWindow.baml
+C:\Users\alexc\Desktop\AVA - 3ER SEMESTRE\DLLO DE SOFTWARE\Proyecto Completo Hotel Harmann - Alex Cofre - gabriel Villar - Juan Calderon - Sebastian Wimmer\Solucion Hotel Harman\HotelWPF\obj\Debug\HotelWPF.g.resources
+C:\Users\alexc\Desktop\AVA - 3ER SEMESTRE\DLLO DE SOFTWARE\Proyecto Completo Hotel Harmann - Alex Cofre - gabriel Villar - Juan Calderon - Sebastian Wimmer\Solucion Hotel Harman\HotelWPF\obj\Debug\HotelWPF.Properties.Resources.resources
+C:\Users\alexc\Desktop\AVA - 3ER SEMESTRE\DLLO DE SOFTWARE\Proyecto Completo Hotel Harmann - Alex Cofre - gabriel Villar - Juan Calderon - Sebastian Wimmer\Solucion Hotel Harman\HotelWPF\obj\Debug\HotelWPF.csproj.GenerateResource.cache
+C:\Users\alexc\Desktop\AVA - 3ER SEMESTRE\DLLO DE SOFTWARE\Proyecto Completo Hotel Harmann - Alex Cofre - gabriel Villar - Juan Calderon - Sebastian Wimmer\Solucion Hotel Harman\HotelWPF\obj\Debug\HotelWPF.csproj.CoreCompileInputs.cache
+C:\Users\alexc\Desktop\AVA - 3ER SEMESTRE\DLLO DE SOFTWARE\Proyecto Completo Hotel Harmann - Alex Cofre - gabriel Villar - Juan Calderon - Sebastian Wimmer\Solucion Hotel Harman\HotelWPF\obj\Debug\HotelWPF.csproj.CopyComplete
+C:\Users\alexc\Desktop\AVA - 3ER SEMESTRE\DLLO DE SOFTWARE\Proyecto Completo Hotel Harmann - Alex Cofre - gabriel Villar - Juan Calderon - Sebastian Wimmer\Solucion Hotel Harman\HotelWPF\obj\Debug\HotelWPF.exe
+C:\Users\alexc\Desktop\AVA - 3ER SEMESTRE\DLLO DE SOFTWARE\Proyecto Completo Hotel Harmann - Alex Cofre - gabriel Villar - Juan Calderon - Sebastian Wimmer\Solucion Hotel Harman\HotelWPF\obj\Debug\HotelWPF.pdb

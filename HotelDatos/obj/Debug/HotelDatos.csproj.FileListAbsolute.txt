@@ -1,0 +1,16 @@
+C:\Users\alexc\Desktop\Solucion Hotel Harman\HotelDatos\bin\Debug\HotelDatos.dll.config
+C:\Users\alexc\Desktop\Solucion Hotel Harman\HotelDatos\bin\Debug\HotelDatos.dll
+C:\Users\alexc\Desktop\Solucion Hotel Harman\HotelDatos\bin\Debug\HotelDatos.pdb
+C:\Users\alexc\Desktop\Solucion Hotel Harman\HotelDatos\bin\Debug\EntityFramework.dll
+C:\Users\alexc\Desktop\Solucion Hotel Harman\HotelDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alexc\Desktop\Solucion Hotel Harman\HotelDatos\bin\Debug\EntityFramework.xml
+C:\Users\alexc\Desktop\Solucion Hotel Harman\HotelDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alexc\Desktop\Solucion Hotel Harman\HotelDatos\obj\Debug\HotelDatos.csprojAssemblyReference.cache
+C:\Users\alexc\Desktop\Solucion Hotel Harman\HotelDatos\obj\Debug\HotelDatos.csproj.CoreCompileInputs.cache
+C:\Users\alexc\Desktop\Solucion Hotel Harman\HotelDatos\obj\Debug\HotelDatos.csproj.CopyComplete
+C:\Users\alexc\Desktop\Solucion Hotel Harman\HotelDatos\obj\Debug\HotelDatos.dll
+C:\Users\alexc\Desktop\Solucion Hotel Harman\HotelDatos\obj\Debug\HotelDatos.pdb
+C:\Users\alexc\Desktop\AVA - 3ER SEMESTRE\DLLO DE SOFTWARE\Proyecto Completo Hotel Harmann - Alex Cofre - gabriel Villar - Juan Calderon - Sebastian Wimmer\Solucion Hotel Harman\HotelDatos\obj\Debug\HotelDatos.csprojAssemblyReference.cache
+C:\Users\alexc\Desktop\AVA - 3ER SEMESTRE\DLLO DE SOFTWARE\Proyecto Completo Hotel Harmann - Alex Cofre - gabriel Villar - Juan Calderon - Sebastian Wimmer\Solucion Hotel Harman\HotelDatos\obj\Debug\HotelDatos.csproj.CoreCompileInputs.cache
+C:\Users\alexc\Desktop\AVA - 3ER SEMESTRE\DLLO DE SOFTWARE\Proyecto Completo Hotel Harmann - Alex Cofre - gabriel Villar - Juan Calderon - Sebastian Wimmer\Solucion Hotel Harman\HotelDatos\obj\Debug\HotelDatos.dll
+C:\Users\alexc\Desktop\AVA - 3ER SEMESTRE\DLLO DE SOFTWARE\Proyecto Completo Hotel Harmann - Alex Cofre - gabriel Villar - Juan Calderon - Sebastian Wimmer\Solucion Hotel Harman\HotelDatos\obj\Debug\HotelDatos.pdb
